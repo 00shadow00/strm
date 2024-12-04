@@ -1,1 +1,6 @@
-hello
+{
+    "new_movie": {
+        "title": "New Movie",
+        "year": 2024
+    }
+}
