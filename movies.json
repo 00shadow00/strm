@@ -2,5 +2,6 @@
     "new_movie": {
         "title": "New Movie",
         "year": 2024
-    }
+    },
+    "new_key": "new_value"
 }
