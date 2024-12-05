@@ -1,4 +1,3 @@
-
 [
     {
         "id": "tt9813792",
@@ -1011,5 +1010,15 @@
                 "episode_count": 2
             }
         ]
+    },
+    {
+        "id": "103540",
+        "title": "Percy Jackson and the Olympians",
+        "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg",
+        "genres": "Action & Adventure, Sci-Fi & Fantasy, Drama, Family",
+        "unique_id": "percyjacksonandtheolympians-103540",
+        "tmdb_id": "103540",
+        "release_year": "2023\u2013"
     }
 ]
