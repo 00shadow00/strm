@@ -5213,5 +5213,15 @@
         "unique_id": "terrifier3-1034541",
         "release_date": "2024-10-09",
         "release_year": "2024"
+    },
+    {
+        "id": "86328",
+        "title": "Terrifier",
+        "overview": "After witnessing a brutal murder on Halloween night, a young woman becomes the next target of a maniacal entity.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/uP5k78WkCVrxrFp4AJflHbC61Ao.jpg",
+        "genres": "Horror",
+        "unique_id": "terrifier-86328",
+        "release_date": "2011-08-09",
+        "release_year": "2016"
     }
 ]
