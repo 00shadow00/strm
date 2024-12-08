@@ -5170,5 +5170,15 @@
         "unique_id": "alienromulus-945961",
         "release_date": "2024-08-13",
         "release_year": "2024"
+    },
+    {
+        "id": "10200",
+        "title": "The Day the Earth Stood Still",
+        "overview": "A representative of an alien race that went through drastic evolution to survive its own climate change, Klaatu comes to Earth to assess whether humanity can prevent the environmental damage they have inflicted on their own planet. When barred from speaking to the United Nations, he decides humankind shall be exterminated so the planet can survive.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/3744nDNrKIFcgXEDL2WDkqYc7vF.jpg",
+        "genres": "Drama, Science Fiction, Thriller",
+        "unique_id": "thedaytheearthstoodstill-10200",
+        "release_date": "2008-12-10",
+        "release_year": "2008"
     }
 ]
