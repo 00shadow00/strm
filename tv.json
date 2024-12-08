@@ -783,23 +783,6 @@
         ]
     },
     {
-        "id": "tt20600980",
-        "title": "Star Wars: Skeleton Crew",
-        "overview": "Four ordinary kids search for their home planet after getting lost in the Star Wars galaxy.",
-        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/6WK3oVHXnAbQgwvUcqLYlRp8Bvq.jpg",
-        "genres": "Action & Adventure, Sci-Fi & Fantasy",
-        "unique_id": "starwarsskeletoncrew-tt20600980",
-        "tmdb_id": "202879",
-        "release_year": "2024",
-        "release_date": "2024-12-02",
-        "seasons": [
-            {
-                "season_number": 1,
-                "episode_count": 8
-            }
-        ]
-    },
-    {
         "id": "tt2861424",
         "title": "Rick and Morty",
         "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
