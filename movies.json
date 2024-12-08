@@ -5180,5 +5180,25 @@
         "unique_id": "thedaytheearthstoodstill-10200",
         "release_date": "2008-12-10",
         "release_year": "2008"
+    },
+    {
+        "id": "57718",
+        "title": "Megamind: The Button of Doom",
+        "overview": "For their first day on the job as the new protectors of Metro City, Megamind and Minion are selling off the gadgets from their evil lair. But when one seemingly harmless \"button\" unleashes the gigantic robot MEGA-MEGAmind, the duo will have to resort to their old tricks to restore order.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/xHWPPDPvtUtLtzEPAKAut7QACxo.jpg",
+        "genres": "Animation, Action, Comedy, Family",
+        "unique_id": "megamindthebuttonofdoom-57718",
+        "release_date": "2011-02-25",
+        "release_year": "2011"
+    },
+    {
+        "id": "1239251",
+        "title": "Megamind vs. the Doom Syndicate",
+        "overview": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+        "genres": "Animation, Comedy, Science Fiction",
+        "unique_id": "megamindvsthedoomsyndicate-1239251",
+        "release_date": "2024-03-29",
+        "release_year": "2024"
     }
 ]
