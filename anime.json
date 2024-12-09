@@ -1,47 +1,29 @@
 [
     {
-        "id": "6702",
-        "title": "FAIRY TAIL",
+        "id": "136",
+        "title": "HUNTER\u00d7HUNTER",
         "overview": "No description available",
-        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/b6702-1FZrcyOB4NfH.png",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx136-gj0bbCpDNrKG.jpg",
         "genres": "anime",
-        "unique_id": "fairy-tail-6702",
-        "release_date": "2009-10-12"
+        "unique_id": "hunter\u00d7hunter-136",
+        "release_date": "1999-10-16"
     },
     {
-        "id": "20626",
-        "title": "FAIRY TAIL (2014)",
+        "id": "11061",
+        "title": "HUNTER\u00d7HUNTER (2011)",
         "overview": "No description available",
-        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx20626-9LTreIofBgnu.jpg",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx11061-NpIIobuQNbJW.png",
         "genres": "anime",
-        "unique_id": "fairy-tail-(2014)-20626",
-        "release_date": "2014-04-05"
+        "unique_id": "hunter\u00d7hunter-(2011)-11061",
+        "release_date": "2011-10-02"
     },
     {
-        "id": "99749",
-        "title": "FAIRY TAIL (2018)",
+        "id": "137",
+        "title": "HUNTER\u00d7HUNTER OVA",
         "overview": "No description available",
-        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/nx99749-tvz2LCPdMyrp.jpg",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx137-u17pWQRTZfKn.jpg",
         "genres": "anime",
-        "unique_id": "fairy-tail-(2018)-99749",
-        "release_date": "2018-10-07"
-    },
-    {
-        "id": "18393",
-        "title": "FAIRY TAIL \u00d7 RAVE",
-        "overview": "No description available",
-        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/b18393-aYbUsy5YeL1M.jpg",
-        "genres": "anime",
-        "unique_id": "fairy-tail-\u00d7-rave-18393",
-        "release_date": "2013-08-16"
-    },
-    {
-        "id": "9982",
-        "title": "FAIRY TAIL OVA",
-        "overview": "No description available",
-        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/9982.jpg",
-        "genres": "anime",
-        "unique_id": "fairy-tail-ova-9982",
-        "release_date": "2011-04-15"
+        "unique_id": "hunter\u00d7hunter-ova-137",
+        "release_date": "2002-01-17"
     }
 ]
