@@ -43,5 +43,14 @@
         "genres": "anime",
         "unique_id": "fairy-tail-ova-9982",
         "release_date": "2011-04-15"
+    },
+    {
+        "id": "11061",
+        "title": "HUNTER\u00d7HUNTER (2011)",
+        "overview": "No description available",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx11061-NpIIobuQNbJW.png",
+        "genres": "anime",
+        "unique_id": "hunter\u00d7hunter-(2011)-11061",
+        "release_date": "2011-10-02"
     }
 ]
