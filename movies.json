@@ -5223,5 +5223,35 @@
         "unique_id": "terrifier-86328",
         "release_date": "2011-08-09",
         "release_year": "2016"
+    },
+    {
+        "id": "343668",
+        "title": "Kingsman: The Golden Circle",
+        "overview": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
+        "genres": "Action, Adventure, Comedy",
+        "unique_id": "kingsmanthegoldencircle-343668",
+        "release_date": "2017-09-20",
+        "release_year": "2017"
+    },
+    {
+        "id": "1040195",
+        "title": "Kingsman: The Secret Service Revealed",
+        "overview": "A documentary on Kingsman: The Secret Service.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/mlzxkKbSdoSSKF2CRiFq7xOFaCj.jpg",
+        "genres": "Documentary",
+        "unique_id": "kingsmanthesecretservicerevealed-1040195",
+        "release_date": "2015-06-08",
+        "release_year": "2015"
+    },
+    {
+        "id": "207703",
+        "title": "Kingsman: The Secret Service",
+        "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+        "genres": "Crime, Comedy, Action, Adventure",
+        "unique_id": "kingsmanthesecretservice-207703",
+        "release_date": "2015-01-24",
+        "release_year": "2014"
     }
 ]
