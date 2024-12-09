@@ -52,5 +52,32 @@
         "genres": "anime",
         "unique_id": "hunter\u00d7hunter-(2011)-11061",
         "release_date": "2011-10-02"
+    },
+    {
+        "id": "21175",
+        "title": "Dragon Ball Super",
+        "overview": "No description available",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx21175-EH06qlfF8TnB.jpg",
+        "genres": "anime",
+        "unique_id": "dragon-ball-super-21175",
+        "release_date": "2015-07-05"
+    },
+    {
+        "id": "133898",
+        "title": "Dragon Ball Super: Super Hero",
+        "overview": "No description available",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx133898-KdQ7fWTG06n4.png",
+        "genres": "anime",
+        "unique_id": "dragon-ball-super:-super-hero-133898",
+        "release_date": "2022-06-11"
+    },
+    {
+        "id": "101302",
+        "title": "Dragon Ball Super: Broly",
+        "overview": "No description available",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx101302-7L0lcwYeFQQM.jpg",
+        "genres": "anime",
+        "unique_id": "dragon-ball-super:-broly-101302",
+        "release_date": "2018-12-14"
     }
 ]
