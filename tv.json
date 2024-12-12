@@ -1013,5 +1013,14 @@
         "unique_id": "fairytail-46261",
         "tmdb_id": "46261",
         "release_year": "2009\u20132019"
+    },
+    {
+        "id": "87689",
+        "title": "Warrior Nun",
+        "overview": "After waking up in a morgue, an orphaned teen discovers she now possesses superpowers as the chosen Halo-Bearer for a secret sect of demon-hunting nuns.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/fLP0mA7FiERZhDP1NJUaHpm6XM8.jpg",
+        "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+        "unique_id": "warriornun-87689",
+        "tmdb_id": "87689"
     }
 ]
