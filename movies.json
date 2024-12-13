@@ -5283,5 +5283,23 @@
         "genres": "Action, Crime, Thriller",
         "unique_id": "armor-1182387",
         "release_date": "2024-10-30"
+    },
+    {
+        "id": "645757",
+        "title": "That Christmas",
+        "overview": "It's an unforgettable Christmas for the townsfolk of Wellington-on-Sea when the worst snowstorm in history alters everyone's plans \u2014 including Santa's.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/bX6dx2U4hOk1esI7mYwtD3cEKdC.jpg",
+        "genres": "Animation, Comedy, Family, Fantasy, Adventure",
+        "unique_id": "thatchristmas-645757",
+        "release_date": "2024-11-27"
+    },
+    {
+        "id": "1167271",
+        "title": "Weekend in Taipei",
+        "overview": "A former DEA agent and a former undercover operative revisit their romance during a fateful weekend in Taipei, unaware of the dangerous consequences of their past.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg",
+        "genres": "Action, Adventure, Thriller",
+        "unique_id": "weekendintaipei-1167271",
+        "release_date": "2024-09-19"
     }
 ]
