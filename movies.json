@@ -5301,5 +5301,23 @@
         "genres": "Action, Adventure, Thriller",
         "unique_id": "weekendintaipei-1167271",
         "release_date": "2024-09-19"
+    },
+    {
+        "id": "932420",
+        "title": "Code 8 Part II",
+        "overview": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+        "genres": "Science Fiction, Action, Crime",
+        "unique_id": "code8partii-932420",
+        "release_date": "2024-02-27"
+    },
+    {
+        "id": "461130",
+        "title": "Code 8",
+        "overview": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film \u201cCode 8,\u201d 2016.)",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/izGX7npHEopDQvngYcxMJEfcFbj.jpg",
+        "genres": "Science Fiction, Action, Crime",
+        "unique_id": "code8-461130",
+        "release_date": "2019-12-06"
     }
 ]
