@@ -1031,5 +1031,14 @@
         "genres": "Mystery, Drama",
         "unique_id": "lightshop-226529",
         "tmdb_id": "226529"
+    },
+    {
+        "id": "242977",
+        "title": "La Palma",
+        "overview": "A Norwegian family vacationing on La Palma faces disaster when a young researcher discovers alarming signs of an imminent volcanic eruption.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lnFqXgpG0vpstspzsC4bW70YgYw.jpg",
+        "genres": "Drama",
+        "unique_id": "lapalma-242977",
+        "tmdb_id": "242977"
     }
 ]
