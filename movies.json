@@ -5337,5 +5337,14 @@
         "genres": "Action, Science Fiction, Comedy",
         "unique_id": "borderlands-365177",
         "release_date": "2024-08-07"
+    },
+    {
+        "id": "762441",
+        "title": "A Quiet Place: Day One",
+        "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+        "genres": "Horror, Science Fiction, Thriller",
+        "unique_id": "aquietplacedayone-762441",
+        "release_date": "2024-06-26"
     }
 ]
