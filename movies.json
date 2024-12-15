@@ -5328,5 +5328,14 @@
         "genres": "Science Fiction, Action",
         "unique_id": "code8-389165",
         "release_date": "2016-03-22"
+    },
+    {
+        "id": "365177",
+        "title": "Borderlands",
+        "overview": "Returning to her home planet, an infamous bounty hunter forms an unexpected alliance with a team of unlikely heroes. Together, they battle monsters and dangerous bandits to protect a young girl who holds the key to unimaginable power.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/3NPUQ6Ywayb5ES2IP1HWrDRt1Gc.jpg",
+        "genres": "Action, Science Fiction, Comedy",
+        "unique_id": "borderlands-365177",
+        "release_date": "2024-08-07"
     }
 ]
