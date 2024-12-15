@@ -5319,5 +5319,14 @@
         "genres": "Science Fiction, Action, Crime",
         "unique_id": "code8-461130",
         "release_date": "2019-12-06"
+    },
+    {
+        "id": "389165",
+        "title": "Code 8",
+        "overview": "In Lincoln City, 4% of people have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Taylor, a construction worker with powers, is forced to fight after committing a misdemeanor\u2026",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/z1fXSh5rIrzBCOJt72MvxmSvrAn.jpg",
+        "genres": "Science Fiction, Action",
+        "unique_id": "code8-389165",
+        "release_date": "2016-03-22"
     }
 ]
