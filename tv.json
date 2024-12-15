@@ -1022,5 +1022,14 @@
         "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
         "unique_id": "warriornun-87689",
         "tmdb_id": "87689"
+    },
+    {
+        "id": "226529",
+        "title": "Light Shop",
+        "overview": "In a mysterious shop that sells lamps, the dead may return to the world of the living, while the living may not walk out alive.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/iRgH73xibpeNZ8zzPDkIpxuoKgC.jpg",
+        "genres": "Mystery, Drama",
+        "unique_id": "lightshop-226529",
+        "tmdb_id": "226529"
     }
 ]
