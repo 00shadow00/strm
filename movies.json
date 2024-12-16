@@ -5354,6 +5354,9 @@
         "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/a6sZFTvDNuJWGNjfmdWWZlgzb7U.jpg",
         "genres": "Action, Fantasy, Romance",
         "unique_id": "thecurseofturandot-527169",
-        "release_date": "2021-10-15"
+        "release_date": "2021-10-15",
+        "player": [
+            "https:\/\/m.youtube.com\/watch?v=BfyD9_x7lk4&pp=ygUVdGhlIGN1cnNlIG9mIHR1cmFuZG90"
+        ]
     }
 ]
