@@ -5358,5 +5358,14 @@
         "player": [
             "https:\/\/m.youtube.com\/watch?v=BfyD9_x7lk4&pp=ygUVdGhlIGN1cnNlIG9mIHR1cmFuZG90"
         ]
+    },
+    {
+        "id": "1033462",
+        "title": "Bureau 749",
+        "overview": "A traumatized young man with physical abnormalities is forced to join a mysterious bureau to confront a disaster spreading across the earth caused by an unknown creature. He embarks on an adventure uncovering mysteries about his life.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
+        "genres": "Action, Adventure, Science Fiction",
+        "unique_id": "bureau749-1033462",
+        "release_date": "2024-10-01"
     }
 ]
