@@ -5346,5 +5346,14 @@
         "genres": "Horror, Science Fiction, Thriller",
         "unique_id": "aquietplacedayone-762441",
         "release_date": "2024-06-26"
+    },
+    {
+        "id": "527169",
+        "title": "The Curse of Turandot",
+        "overview": "The plot follows Princess Turandot who is cursed by a mysterious power emanating from three Mazovian bracelets that were given to her as birthday gifts. These bracelets\u2019 life-draining effects cause the princess to becomes cruel, and gradually she loses her humanity.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/a6sZFTvDNuJWGNjfmdWWZlgzb7U.jpg",
+        "genres": "Action, Fantasy, Romance",
+        "unique_id": "thecurseofturandot-527169",
+        "release_date": "2021-10-15"
     }
 ]
