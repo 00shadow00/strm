@@ -5406,5 +5406,23 @@
         "genres": "Family, Comedy, Fantasy, Adventure",
         "unique_id": "dolittle-448119",
         "release_date": "2020-01-02"
+    },
+    {
+        "id": "762509",
+        "title": "Mufasa: The Lion King",
+        "overview": "Told in flashbacks, Mufasa is an orphaned cub, lost and alone until he meets a sympathetic lion named Taka\u2014the heir to a royal bloodline. The chance meeting sets in motion a journey of misfits searching for their destiny and working together to evade a threatening and deadly foe.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+        "genres": "Adventure, Family, Drama, Animation, Horror",
+        "unique_id": "mufasathelionking-762509",
+        "release_date": "2024-12-18"
+    },
+    {
+        "id": "1000075",
+        "title": "The Price of Money: A Largo Winch Adventure",
+        "overview": "Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, maybe he'll see his son again.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/38ndcNVogh4k1iFH5DSXSX8kyOZ.jpg",
+        "genres": "Action, Adventure, Thriller",
+        "unique_id": "thepriceofmoneyalargowinchadventure-1000075",
+        "release_date": "2024-07-31"
     }
 ]
