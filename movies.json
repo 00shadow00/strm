@@ -5424,5 +5424,14 @@
         "genres": "Action, Adventure, Thriller",
         "unique_id": "thepriceofmoneyalargowinchadventure-1000075",
         "release_date": "2024-07-31"
+    },
+    {
+        "id": "497",
+        "title": "The Green Mile",
+        "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "genres": "Fantasy, Drama, Crime",
+        "unique_id": "thegreenmile-497",
+        "release_date": "1999-12-10"
     }
 ]
