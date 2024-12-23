@@ -1067,5 +1067,14 @@
         "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
         "unique_id": "doctorwho-57243",
         "tmdb_id": "57243"
+    },
+    {
+        "id": "71738",
+        "title": "The Orville",
+        "overview": "Follow the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg",
+        "genres": "Drama, Comedy, Sci-Fi & Fantasy",
+        "unique_id": "theorville-71738",
+        "tmdb_id": "71738"
     }
 ]
