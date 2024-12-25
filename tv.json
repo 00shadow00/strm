@@ -1085,5 +1085,14 @@
         "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
         "unique_id": "duneprophecy-90228",
         "tmdb_id": "90228"
+    },
+    {
+        "id": "240456",
+        "title": "The Count of Monte Cristo",
+        "overview": "Edmond Dantes, a sailor falsely accused of treason, is imprisoned in the Ch\u00e2teau d'If off Marseille. After escaping, and adopting the identity of the Count of Monte Cristo, he plans revenge against those who wrongly accused him.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/nnx4MpucUSGD7G3u7NCAk2TvL0T.jpg",
+        "genres": "Drama, Action & Adventure",
+        "unique_id": "thecountofmontecristo-240456",
+        "tmdb_id": "240456"
     }
 ]
