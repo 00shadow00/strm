@@ -1103,5 +1103,14 @@
         "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
         "unique_id": "constantine-60743",
         "tmdb_id": "60743"
+    },
+    {
+        "id": "78081",
+        "title": "Constantine: City of Demons",
+        "overview": "Armed with an arcane knowledge of the dark arts and a wicked wit, John Constantine fights the good fight. With his soul already damned to hell, he\u2019ll do whatever it takes to protect the innocent. With the balance of good and evil on the line, Constantine uses his skills to face the supernatural terrors that threaten our world and send them back where they belong. After that, who knows\u2026maybe there\u2019s hope for him and his soul after all.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/w7I3zKEk8E9o061jxJz7s6UuxDg.jpg",
+        "genres": "Animation, Sci-Fi & Fantasy",
+        "unique_id": "constantinecityofdemons-78081",
+        "tmdb_id": "78081"
     }
 ]
