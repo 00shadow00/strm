@@ -1076,5 +1076,14 @@
         "genres": "Drama, Comedy, Sci-Fi & Fantasy",
         "unique_id": "theorville-71738",
         "tmdb_id": "71738"
+    },
+    {
+        "id": "90228",
+        "title": "Dune: Prophecy",
+        "overview": "Ten thousand years before the ascension of Paul Atreides, sisters Valya and Tula Harkonnen establish the fabled sect and female order that would become known as the Bene Gesserit to control the future of humankind.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg",
+        "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+        "unique_id": "duneprophecy-90228",
+        "tmdb_id": "90228"
     }
 ]
