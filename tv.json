@@ -1112,5 +1112,14 @@
         "genres": "Animation, Sci-Fi & Fantasy",
         "unique_id": "constantinecityofdemons-78081",
         "tmdb_id": "78081"
+    },
+    {
+        "id": "95057",
+        "title": "Superman & Lois",
+        "overview": "After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/qJ6ndkbqgqS1n7ETi0YHhcjASym.jpg",
+        "genres": "Drama, Sci-Fi & Fantasy",
+        "unique_id": "supermanlois-95057",
+        "tmdb_id": "95057"
     }
 ]
