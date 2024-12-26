@@ -5442,5 +5442,14 @@
         "genres": "Drama, Adventure, Science Fiction",
         "unique_id": "themartian-286217",
         "release_date": "2015-09-30"
+    },
+    {
+        "id": "779782",
+        "title": "The School for Good and Evil",
+        "overview": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains \u2014 and find themselves on opposing sides of the battle between good and evil.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",
+        "genres": "Fantasy, Comedy, Adventure, Drama",
+        "unique_id": "theschoolforgoodandevil-779782",
+        "release_date": "2022-10-19"
     }
 ]
