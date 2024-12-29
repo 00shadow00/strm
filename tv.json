@@ -1121,5 +1121,14 @@
         "genres": "Drama, Sci-Fi & Fantasy",
         "unique_id": "supermanlois-95057",
         "tmdb_id": "95057"
+    },
+    {
+        "id": "85271",
+        "title": "WandaVision",
+        "overview": "Wanda Maximoff and Vision\u2014two super-powered beings living idealized suburban lives\u2014begin to suspect that everything is not as it seems.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/b9UKt5qX8zn2twmGUeVTse8Y9Ug.jpg",
+        "genres": "Sci-Fi & Fantasy, Mystery, Drama",
+        "unique_id": "wandavision-85271",
+        "tmdb_id": "85271"
     }
 ]
