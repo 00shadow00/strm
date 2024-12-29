@@ -5451,5 +5451,14 @@
         "genres": "Fantasy, Comedy, Adventure, Drama",
         "unique_id": "theschoolforgoodandevil-779782",
         "release_date": "2022-10-19"
+    },
+    {
+        "id": "1164506",
+        "title": "Firefly",
+        "overview": "The film follows a young boy's search for the mythical island of fireflies described in his mother's bedtime stories. Using the \"clues\" he believes his mother left behind in an old notebook, the boy makes the long journey to the magical island to wish her back to life.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dRyckThsRzAuIk7pUNs6QSqfpy4.jpg",
+        "genres": "Fantasy",
+        "unique_id": "firefly-1164506",
+        "release_date": "2023-12-25"
     }
 ]
