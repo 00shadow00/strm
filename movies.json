@@ -5472,5 +5472,14 @@
         "genres": "Science Fiction, Fantasy, Horror",
         "unique_id": "parallel-426793",
         "release_date": "2018-04-10"
+    },
+    {
+        "id": "353491",
+        "title": "The Dark Tower",
+        "overview": "A boy haunted by visions of a parallel world aids its disillusioned guardian in preventing the destruction of the nexus of universes known as the Dark Tower.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+        "genres": "Fantasy, Action, Science Fiction",
+        "unique_id": "thedarktower-353491",
+        "release_date": "2017-08-03"
     }
 ]
