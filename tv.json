@@ -1139,5 +1139,14 @@
         "genres": "Drama, Sci-Fi & Fantasy",
         "unique_id": "loki-84958",
         "tmdb_id": "84958"
+    },
+    {
+        "id": "127532",
+        "title": "Solo Leveling",
+        "overview": "They say whatever doesn\u2019t kill you makes you stronger, but that\u2019s not the case for the world\u2019s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that\u2019s leveling him up in every way. Now, he\u2019s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+        "genres": "Action & Adventure, Sci-Fi & Fantasy, Animation",
+        "unique_id": "sololeveling-127532",
+        "tmdb_id": "127532"
     }
 ]
