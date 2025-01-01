@@ -1148,5 +1148,14 @@
         "genres": "Action & Adventure, Sci-Fi & Fantasy, Animation",
         "unique_id": "sololeveling-127532",
         "tmdb_id": "127532"
+    },
+    {
+        "id": "82452",
+        "title": "Avatar the Last Airbender",
+        "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war \u2014 and fight a ruthless enemy bent on stopping him.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+        "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "unique_id": "avatarthelastairbender-82452",
+        "tmdb_id": "82452"
     }
 ]
