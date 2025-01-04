@@ -5479,5 +5479,32 @@
         "genres": "Action, Adventure, Comedy, Family, Fantasy",
         "unique_id": "thewarriorsgate-413658",
         "release_date": "2016-11-18"
+    },
+    {
+        "id": "940721",
+        "title": "Godzilla Minus One",
+        "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+        "genres": "Science Fiction, Horror, Action",
+        "unique_id": "godzillaminusone-940721",
+        "release_date": "2023-11-03"
+    },
+    {
+        "id": "1285946",
+        "title": "Godzilla",
+        "overview": "A tired man lies on the ground and along with the  sun heat he begins to dissociate.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/zSboA7wUI9ly2OwB9QqL10IjzGj.jpg",
+        "genres": "Drama, Fantasy",
+        "unique_id": "godzilla-1285946",
+        "release_date": "2024-05-10"
+    },
+    {
+        "id": "823464",
+        "title": "Godzilla x Kong: The New Empire",
+        "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence \u2013 and our own.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+        "genres": "Action, Adventure, Science Fiction",
+        "unique_id": "godzillaxkongthenewempire-823464",
+        "release_date": "2024-03-27"
     }
 ]
