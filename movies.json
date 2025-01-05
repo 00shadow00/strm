@@ -5506,5 +5506,14 @@
         "genres": "Action, Adventure, Science Fiction",
         "unique_id": "godzillaxkongthenewempire-823464",
         "release_date": "2024-03-27"
+    },
+    {
+        "id": "399566",
+        "title": "Godzilla vs. Kong",
+        "overview": "In a time when monsters walk the Earth, humanity\u2019s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+        "genres": "Action, Science Fiction, Adventure",
+        "unique_id": "godzillavskong-399566",
+        "release_date": "2021-03-24"
     }
 ]
