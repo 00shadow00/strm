@@ -1109,5 +1109,14 @@
         "genres": "Drama, Sci-Fi & Fantasy",
         "unique_id": "onceuponatime-39272",
         "tmdb_id": "39272"
+    },
+    {
+        "id": "97400",
+        "title": "Midnight Mass",
+        "overview": "A young man returns to his isolated hometown on Crockett Island, hoping to rebuild his life after serving four years in prison for killing someone in a drunk-driving incident. He arrives at the same time as a mysterious, charismatic young priest who begins to revitalise the town's flagging faith. However, the community's divisions are soon exacerbated by the priest's deeds while mysterious events befall the small town.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
+        "genres": "Mystery, Drama",
+        "unique_id": "midnightmass-97400",
+        "tmdb_id": "97400"
     }
 ]
