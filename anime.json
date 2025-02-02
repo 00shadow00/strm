@@ -88,5 +88,23 @@
         "genres": "anime",
         "unique_id": "bleach-269",
         "release_date": "2004-10-05"
+    },
+    {
+        "id": "18115",
+        "title": "Magi: The kingdom of magic",
+        "overview": "No description available",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx18115-dilbAD4yGMfc.png",
+        "genres": "anime",
+        "unique_id": "magi:-the-kingdom-of-magic-18115",
+        "release_date": "2013-10-07"
+    },
+    {
+        "id": "14513",
+        "title": "Magi: The labyrinth of magic",
+        "overview": "No description available",
+        "poster": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/small\/bx14513-y7Vjn0NMgahS.jpg",
+        "genres": "anime",
+        "unique_id": "magi:-the-labyrinth-of-magic-14513",
+        "release_date": "2012-10-07"
     }
 ]
