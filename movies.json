@@ -5641,5 +5641,32 @@
         "genres": "Horror",
         "unique_id": "triangle-26466",
         "release_date": "2009-10-16"
+    },
+    {
+        "id": "290859",
+        "title": "Terminator: Dark Fate",
+        "overview": "Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is sent to eliminate the future leader of the resistance. In a fight to save mankind, battle-hardened Sarah Connor teams up with an unexpected ally and an enhanced super soldier to stop the deadliest Terminator yet.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+        "genres": "Science Fiction, Action, Adventure, Thriller",
+        "unique_id": "terminatordarkfate-290859",
+        "release_date": "2019-10-23"
+    },
+    {
+        "id": "87101",
+        "title": "Terminator Genisys",
+        "overview": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+        "genres": "Science Fiction, Action, Thriller, Adventure",
+        "unique_id": "terminatorgenisys-87101",
+        "release_date": "2015-06-23"
+    },
+    {
+        "id": "534",
+        "title": "Terminator Salvation",
+        "overview": "All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+        "genres": "Action, Science Fiction, Thriller",
+        "unique_id": "terminatorsalvation-534",
+        "release_date": "2009-05-20"
     }
 ]
