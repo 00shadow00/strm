@@ -5668,5 +5668,32 @@
         "genres": "Action, Science Fiction, Thriller",
         "unique_id": "terminatorsalvation-534",
         "release_date": "2009-05-20"
+    },
+    {
+        "id": "26342",
+        "title": "The Terminators",
+        "overview": "A small band of resistance fighters battle the cyborgs that have taken control of the planet.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/7LV3sg3bJOGFD6J0gn7Wt1IL5SK.jpg",
+        "genres": "Action, Horror, Science Fiction",
+        "unique_id": "theterminators-26342",
+        "release_date": "2009-04-28"
+    },
+    {
+        "id": "1224717",
+        "title": "Terminator: Skynet Rising",
+        "overview": "Since Legion was destroyed, the machines have been working to restore Skynet. Now the resistance has discovered their plans and must find a way to prevent them.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wnaUR2gxwP5bhk7zkcyzm8u9don.jpg",
+        "genres": "Action, Science Fiction",
+        "unique_id": "terminatorskynetrising-1224717",
+        "release_date": "2024-11-13"
+    },
+    {
+        "id": "296",
+        "title": "Terminator 3: Rise of the Machines",
+        "overview": "It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor \u2026 just like he promised.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
+        "genres": "Action, Thriller, Science Fiction",
+        "unique_id": "terminator3riseofthemachines-296",
+        "release_date": "2003-07-02"
     }
 ]
