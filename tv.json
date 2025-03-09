@@ -1136,5 +1136,14 @@
         "genres": "Drama, Comedy, Mystery, Sci-Fi & Fantasy",
         "unique_id": "glitch-136699",
         "tmdb_id": "136699"
+    },
+    {
+        "id": "68654",
+        "title": "MECH-X4",
+        "overview": "Ryan Walker mysteriously awakens MECH-X4, a giant robot built to defend Bay City against impending doom. When monsters begin to descend, Ryan recruits his two best friends and his brother to help pilot the robot that is their only hope of saving their town from mass destruction.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/acHYpTfMVKHxpI91Y6qjR4w75VC.jpg",
+        "genres": "Sci-Fi & Fantasy, Comedy, Family",
+        "unique_id": "mechx4-68654",
+        "tmdb_id": "68654"
     }
 ]
