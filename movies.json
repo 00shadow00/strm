@@ -5848,5 +5848,59 @@
         "genres": "Action, Adventure, Thriller",
         "unique_id": "counterattack-1356039",
         "release_date": "2025-02-27"
+    },
+    {
+        "id": "324544",
+        "title": "In the Lost Lands",
+        "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/twy1IVJFgaZWA21Sr6kohEOmdFW.jpg",
+        "genres": "Fantasy, Adventure, Action",
+        "unique_id": "inthelostlands-324544",
+        "release_date": "2025-02-27"
+    },
+    {
+        "id": "1276073",
+        "title": "Bullet Train Explosion",
+        "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/qkTKtOHK9JEEOHgPQZ0dFtzs5ML.jpg",
+        "genres": "Action, Thriller, Crime, Drama",
+        "unique_id": "bullettrainexplosion-1276073",
+        "release_date": "2025-04-23"
+    },
+    {
+        "id": "870028",
+        "title": "The Accountant 2",
+        "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Treasury Agent Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
+        "genres": "Crime, Thriller, Action",
+        "unique_id": "theaccountant2-870028",
+        "release_date": "2025-04-23"
+    },
+    {
+        "id": "696506",
+        "title": "Mickey 17",
+        "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+        "genres": "Science Fiction, Comedy, Adventure",
+        "unique_id": "mickey17-696506",
+        "release_date": "2025-02-28"
+    },
+    {
+        "id": "931349",
+        "title": "Ash",
+        "overview": "A woman wakes up on a distant planet and finds the crew of her space station viciously killed. Her investigation into what happened sets in motion a terrifying chain of events.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
+        "genres": "Science Fiction, Horror, Thriller",
+        "unique_id": "ash-931349",
+        "release_date": "2025-03-20"
+    },
+    {
+        "id": "1045938",
+        "title": "G20",
+        "overview": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+        "genres": "Action, Mystery, Drama",
+        "unique_id": "g20-1045938",
+        "release_date": "2025-04-09"
     }
 ]
