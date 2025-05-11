@@ -5902,5 +5902,14 @@
         "genres": "Action, Mystery, Drama",
         "unique_id": "g20-1045938",
         "release_date": "2025-04-09"
+    },
+    {
+        "id": "1424649",
+        "title": "Sampung Utos Kay Josh",
+        "overview": "Josh, a devout loan executive who believes his faith and adherence to the Ten Commandments have brought him a good life. However, when a series of misfortunes strike. Josh begins to feel abandoned by his faith. In his frustration, he decides to rebel by breaking each commandment.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oYTGM9VGCVkF44QViitVpIOw3wG.jpg",
+        "genres": "Comedy",
+        "unique_id": "sampungutoskayjosh-1424649",
+        "release_date": "2025-01-29"
     }
 ]
