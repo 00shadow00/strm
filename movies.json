@@ -5923,5 +5923,77 @@
         "genres": "Horror, Mystery",
         "unique_id": "finaldestinationbloodlines-574475",
         "release_date": "2025-05-09"
+    },
+    {
+        "id": "1225915",
+        "title": "Jewel Thief - The Heist Begins",
+        "overview": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
+        "genres": "Action, Thriller",
+        "unique_id": "jewelthieftheheistbegins-1225915",
+        "release_date": "2025-04-24"
+    },
+    {
+        "id": "896536",
+        "title": "The Legend of Ochi",
+        "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wVujUVvY4qvKARAslItQ4ARKqtz.jpg",
+        "genres": "Fantasy, Adventure, Family",
+        "unique_id": "thelegendofochi-896536",
+        "release_date": "2025-04-18"
+    },
+    {
+        "id": "977294",
+        "title": "Tin Soldier",
+        "overview": "An ex-special forces operative seeks revenge against a cult leader who has corrupted his former comrades, the Shinjas. This leader, known as The Bokushi, promises veterans a purpose and protection, but is revealed to be a destructive influence. The ex-soldier, Nash Cavanaugh, joins forces with military operative Emmanuel Ashburn to infiltrate the Bokushi's fortress and expose his reign of terror",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lFFDrFLXywFhy6khHes1LCFVMsL.jpg",
+        "genres": "Action, Thriller",
+        "unique_id": "tinsoldier-977294",
+        "release_date": "2025-05-22"
+    },
+    {
+        "id": "1144430",
+        "title": "Last Bullet",
+        "overview": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lCI5y1KkjgMoTkZiCleqji00XeE.jpg",
+        "genres": "Action, Crime, Thriller, Drama",
+        "unique_id": "lastbullet-1144430",
+        "release_date": "2025-05-06"
+    },
+    {
+        "id": "552524",
+        "title": "Lilo & Stitch",
+        "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
+        "genres": "Family, Comedy, Science Fiction",
+        "unique_id": "lilostitch-552524",
+        "release_date": "2025-05-17"
+    },
+    {
+        "id": "1001414",
+        "title": "Fear Street: Prom Queen",
+        "overview": "Who will be voted queen at Shadyside High's 1988 prom? For underdog Lori, competition is cutthroat even before someone starts killing off the candidates.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "fearstreetpromqueen-1001414",
+        "release_date": "2025-05-23"
+    },
+    {
+        "id": "986056",
+        "title": "Thunderbolts*",
+        "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg",
+        "genres": "Action, Science Fiction, Adventure",
+        "unique_id": "thunderbolts-986056",
+        "release_date": "2025-04-30"
+    },
+    {
+        "id": "1232546",
+        "title": "Until Dawn",
+        "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/juA4IWO52Fecx8lhAsxmDgy3M3.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "untildawn-1232546",
+        "release_date": "2025-04-23"
     }
 ]
