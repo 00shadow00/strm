@@ -592,5 +592,149 @@
         "genres": "Action, Crime, Thriller, Adventure, Mystery",
         "unique_id": "fastx-385687",
         "release_date": "2023-05-17"
+    },
+    {
+        "id": "939243",
+        "title": "Sonic the Hedgehog 3",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "genres": "Action, Science Fiction, Comedy, Family",
+        "unique_id": "sonicthehedgehog3-939243",
+        "release_date": "2024-12-19"
+    },
+    {
+        "id": "1359977",
+        "title": "Conjuring the Cult",
+        "overview": "After discovering his blood-soaked daughter dead in the bathtub, David Bryson attends a self-help group to help save him from his ghostly nightmares. But when a group of mysterious cult-like women offer to help him resurrect his daughter. David's choices will not just decide his fate... but the fate of his dead daughter's SOUL.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg",
+        "genres": "Horror, Drama",
+        "unique_id": "conjuringthecult-1359977",
+        "release_date": "2024-10-01"
+    },
+    {
+        "id": "933260",
+        "title": "The Substance",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "genres": "Horror, Science Fiction",
+        "unique_id": "thesubstance-933260",
+        "release_date": "2024-09-07"
+    },
+    {
+        "id": "912649",
+        "title": "Venom: The Last Dance",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+        "genres": "Action, Science Fiction, Adventure",
+        "unique_id": "venomthelastdance-912649",
+        "release_date": "2024-10-22"
+    },
+    {
+        "id": "1241982",
+        "title": "Moana 2",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "genres": "Animation, Adventure, Family, Comedy",
+        "unique_id": "moana2-1241982",
+        "release_date": "2024-11-21"
+    },
+    {
+        "id": "1356236",
+        "title": "Saint Catherine",
+        "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+        "genres": "Horror",
+        "unique_id": "saintcatherine-1356236",
+        "release_date": "2024-09-24"
+    },
+    {
+        "id": "533535",
+        "title": "Deadpool & Wolverine",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "genres": "Action, Comedy, Science Fiction",
+        "unique_id": "deadpoolwolverine-533535",
+        "release_date": "2024-07-24"
+    },
+    {
+        "id": "823219",
+        "title": "Flow",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "genres": "Animation, Fantasy, Adventure",
+        "unique_id": "flow-823219",
+        "release_date": "2024-08-29"
+    },
+    {
+        "id": "1184918",
+        "title": "The Wild Robot",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "genres": "Animation, Science Fiction, Family",
+        "unique_id": "thewildrobot-1184918",
+        "release_date": "2024-09-12"
+    },
+    {
+        "id": "1011985",
+        "title": "Kung Fu Panda 4",
+        "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
+        "genres": "Animation, Family, Action, Comedy, Adventure, Fantasy",
+        "unique_id": "kungfupanda4-1011985",
+        "release_date": "2024-03-02"
+    },
+    {
+        "id": "811941",
+        "title": "Devara: Part 1",
+        "overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/1105WNYals12Va2f4F3VeBZdcWX.jpg",
+        "genres": "Action, Drama",
+        "unique_id": "devarapart1-811941",
+        "release_date": "2024-09-26"
+    },
+    {
+        "id": "519182",
+        "title": "Despicable Me 4",
+        "overview": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+        "genres": "Animation, Family, Comedy, Science Fiction",
+        "unique_id": "despicableme4-519182",
+        "release_date": "2024-06-20"
+    },
+    {
+        "id": "1260820",
+        "title": "Stream",
+        "overview": "Craven, a streamer with thousands of followers on a live streaming platform, has prepared a very special stream for Halloween. What no one expects when reacting to a video of Pentagram, a group of young paranormal investigators, is that the live experience will turn into the worst night of their lives. And maybe... the last.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/nnyjtBfUYA8ASHA9OhADrX0sMNQ.jpg",
+        "genres": "Horror",
+        "unique_id": "stream-1260820",
+        "release_date": "2024-02-06"
+    },
+    {
+        "id": "558449",
+        "title": "Gladiator II",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "genres": "Action, Adventure, Drama",
+        "unique_id": "gladiatorii-558449",
+        "release_date": "2024-11-13"
+    },
+    {
+        "id": "1022789",
+        "title": "Inside Out 2",
+        "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+        "genres": "Animation, Adventure, Comedy, Family",
+        "unique_id": "insideout2-1022789",
+        "release_date": "2024-06-11"
+    },
+    {
+        "id": "762509",
+        "title": "Mufasa: The Lion King",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+        "genres": "Adventure, Family, Animation",
+        "unique_id": "mufasathelionking-762509",
+        "release_date": "2024-12-18"
     }
 ]
