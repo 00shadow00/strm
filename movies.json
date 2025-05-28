@@ -142,5 +142,158 @@
         "genres": "Action, Adventure, Fantasy",
         "unique_id": "wonderwoman1984-464052",
         "release_date": "2020-12-16"
+    },
+    {
+        "id": "637649",
+        "title": "Wrath of Man",
+        "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+        "genres": "Action, Crime, Thriller",
+        "unique_id": "wrathofman-637649",
+        "release_date": "2021-04-22"
+    },
+    {
+        "id": "801335",
+        "title": "Girl in the Basement",
+        "overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg",
+        "genres": "Thriller, Crime, TV Movie",
+        "unique_id": "girlinthebasement-801335",
+        "release_date": "2021-02-27"
+    },
+    {
+        "id": "588228",
+        "title": "The Tomorrow War",
+        "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+        "genres": "Action, Science Fiction, Adventure",
+        "unique_id": "thetomorrowwar-588228",
+        "release_date": "2021-09-03"
+    },
+    {
+        "id": "568124",
+        "title": "Encanto",
+        "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family\u2014every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+        "genres": "Animation, Comedy, Family, Fantasy",
+        "unique_id": "encanto-568124",
+        "release_date": "2021-10-13"
+    },
+    {
+        "id": "591273",
+        "title": "Fear Street: 1994",
+        "overview": "After a series of brutal slayings, a teen and her friends take on an evil force that's plagued their notorious town for centuries.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "fearstreet1994-591273",
+        "release_date": "2021-06-28"
+    },
+    {
+        "id": "497698",
+        "title": "Black Widow",
+        "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+        "genres": "Action, Adventure, Science Fiction",
+        "unique_id": "blackwidow-497698",
+        "release_date": "2021-07-07"
+    },
+    {
+        "id": "438695",
+        "title": "Sing 2",
+        "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+        "genres": "Animation, Family, Music, Comedy",
+        "unique_id": "sing2-438695",
+        "release_date": "2021-12-01"
+    },
+    {
+        "id": "566525",
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
+        "genres": "Action, Adventure, Fantasy",
+        "unique_id": "shangchiandthelegendofthetenrings-566525",
+        "release_date": "2021-09-01"
+    },
+    {
+        "id": "791373",
+        "title": "Zack Snyder's Justice League",
+        "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+        "genres": "Action, Adventure, Fantasy",
+        "unique_id": "zacksnydersjusticeleague-791373",
+        "release_date": "2021-03-18"
+    },
+    {
+        "id": "615457",
+        "title": "Nobody",
+        "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor \u2014 a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+        "genres": "Action, Thriller",
+        "unique_id": "nobody-615457",
+        "release_date": "2021-03-18"
+    },
+    {
+        "id": "508943",
+        "title": "Luca",
+        "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water\u2019s surface.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+        "genres": "Animation, Comedy, Fantasy, Adventure, Family",
+        "unique_id": "luca-508943",
+        "release_date": "2021-06-17"
+    },
+    {
+        "id": "458220",
+        "title": "Palmer",
+        "overview": "After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together\u2014and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie's past threatens to ruin his new life and family.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+        "genres": "Drama",
+        "unique_id": "palmer-458220",
+        "release_date": "2021-01-28"
+    },
+    {
+        "id": "634649",
+        "title": "Spider-Man: No Way Home",
+        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "genres": "Action, Adventure, Science Fiction",
+        "unique_id": "spidermannowayhome-634649",
+        "release_date": "2021-12-15"
+    },
+    {
+        "id": "337404",
+        "title": "Cruella",
+        "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella\u2019s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+        "genres": "Comedy, Crime, Adventure",
+        "unique_id": "cruella-337404",
+        "release_date": "2021-05-26"
+    },
+    {
+        "id": "438631",
+        "title": "Dune",
+        "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+        "genres": "Science Fiction, Adventure",
+        "unique_id": "dune-438631",
+        "release_date": "2021-09-15"
+    },
+    {
+        "id": "436969",
+        "title": "The Suicide Squad",
+        "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+        "genres": "Action, Comedy, Adventure",
+        "unique_id": "thesuicidesquad-436969",
+        "release_date": "2021-07-28"
+    },
+    {
+        "id": "423108",
+        "title": "The Conjuring: The Devil Made Me Do It",
+        "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+        "genres": "Horror, Mystery, Thriller",
+        "unique_id": "theconjuringthedevilmademedoit-423108",
+        "release_date": "2021-05-25"
     }
 ]
