@@ -295,5 +295,131 @@
         "genres": "Horror, Mystery, Thriller",
         "unique_id": "theconjuringthedevilmademedoit-423108",
         "release_date": "2021-05-25"
+    },
+    {
+        "id": "846433",
+        "title": "The Enforcer",
+        "overview": "A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he\u2019s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he\u2019s spent his life building.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/72V1r1G8S87ELagVxjqAUdChMCt.jpg",
+        "genres": "Action, Crime, Drama",
+        "unique_id": "theenforcer-846433",
+        "release_date": "2022-09-22"
+    },
+    {
+        "id": "1017129",
+        "title": "Detective Chirp & the Golden Beehive",
+        "overview": "Residents of Honey Valley are getting ready for their favorite holiday - City Day, when all citizens have the opportunity to admire a unique artifact - the Golden Hive. According to legend, it was found by the founders of Honey Valley, and legend has it that thousands of misfortunes will fall upon the town if the Hive disappears. On the eve of the holiday, the Beehive is kidnapped. The squirrel Chink, Sophie's owl detective's assistant, is blamed for this. Chink and his friends have to unravel the case, find the real crook and return not only the Golden Hive, but also peace to the Valley.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oxCPceQ4exEuxU3vfRl8doWyqj8.jpg",
+        "genres": "Animation, Comedy, Mystery, Adventure, Family",
+        "unique_id": "detectivechirpthegoldenbeehive-1017129",
+        "release_date": "2022-11-17"
+    },
+    {
+        "id": "315162",
+        "title": "Puss in Boots: The Last Wish",
+        "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/aV1KGO9X3S4kzqEptVDAvGjccql.jpg",
+        "genres": "Animation, Adventure, Fantasy, Comedy, Family",
+        "unique_id": "pussinbootsthelastwish-315162",
+        "release_date": "2022-12-07"
+    },
+    {
+        "id": "414906",
+        "title": "The Batman",
+        "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "genres": "Crime, Mystery, Thriller",
+        "unique_id": "thebatman-414906",
+        "release_date": "2022-03-01"
+    },
+    {
+        "id": "1018247",
+        "title": "MK Ultra",
+        "overview": "Set during the true and unconscionable Central Intelligence Agency MK ULTRA drug experimentations in the early 1960s. The journey of Ford Strauss, a brilliant psychiatrist, whose moral and scientific boundaries are pushed to the limit as he is recruited to run a subsect of the program in a rural Mississippi Mental Hospital.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/x3G3CCvLYy4EoLuhuUB9YlReFIN.jpg",
+        "genres": "Thriller",
+        "unique_id": "mkultra-1018247",
+        "release_date": "2022-10-07"
+    },
+    {
+        "id": "361743",
+        "title": "Top Gun: Maverick",
+        "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+        "genres": "Action, Drama",
+        "unique_id": "topgunmaverick-361743",
+        "release_date": "2022-05-21"
+    },
+    {
+        "id": "987573",
+        "title": "Believers",
+        "overview": "On a small island somewhere near Japan, three cult members have devoted themselves to the \"Deserted Island Program\". Calling each other by rank, these people-two men and one women-have been chosen by their superiors to throw off the corrupt influence of modern society and \"purify\" themselves. But as time passes two of the members begin to give into human desire.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/sw1sFRVaUCHD0CVTXtnoEFFYyr6.jpg",
+        "genres": "Drama",
+        "unique_id": "believers-987573",
+        "release_date": "2022-07-08"
+    },
+    {
+        "id": "985939",
+        "title": "Fall",
+        "overview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter\u2019s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+        "genres": "Thriller",
+        "unique_id": "fall-985939",
+        "release_date": "2022-08-11"
+    },
+    {
+        "id": "718930",
+        "title": "Bullet Train",
+        "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/zTgMFlHG5D1EqdQDhfOTAsyzGoX.jpg",
+        "genres": "Action, Comedy, Thriller",
+        "unique_id": "bullettrain-718930",
+        "release_date": "2022-08-03"
+    },
+    {
+        "id": "76600",
+        "title": "Avatar: The Way of Water",
+        "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "genres": "Science Fiction, Adventure, Action",
+        "unique_id": "avatarthewayofwater-76600",
+        "release_date": "2022-12-14"
+    },
+    {
+        "id": "675353",
+        "title": "Sonic the Hedgehog 2",
+        "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+        "genres": "Action, Adventure, Family, Comedy",
+        "unique_id": "sonicthehedgehog2-675353",
+        "release_date": "2022-03-30"
+    },
+    {
+        "id": "507086",
+        "title": "Jurassic World Dominion",
+        "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+        "genres": "Adventure, Action, Science Fiction",
+        "unique_id": "jurassicworlddominion-507086",
+        "release_date": "2022-06-01"
+    },
+    {
+        "id": "453395",
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+        "genres": "Fantasy, Action, Adventure",
+        "unique_id": "doctorstrangeinthemultiverseofmadness-453395",
+        "release_date": "2022-05-04"
+    },
+    {
+        "id": "505642",
+        "title": "Black Panther: Wakanda Forever",
+        "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+        "genres": "Action, Adventure, Science Fiction",
+        "unique_id": "blackpantherwakandaforever-505642",
+        "release_date": "2022-11-09"
     }
 ]
