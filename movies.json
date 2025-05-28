@@ -736,5 +736,176 @@
         "genres": "Adventure, Family, Animation",
         "unique_id": "mufasathelionking-762509",
         "release_date": "2024-12-18"
+    },
+    {
+        "id": "552524",
+        "title": "Lilo & Stitch",
+        "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/mKKqV23MQ0uakJS8OCE2TfV5jNS.jpg",
+        "genres": "Family, Comedy, Science Fiction",
+        "unique_id": "lilostitch-552524",
+        "release_date": "2025-05-17"
+    },
+    {
+        "id": "950387",
+        "title": "A Minecraft Movie",
+        "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+        "genres": "Family, Comedy, Adventure, Fantasy",
+        "unique_id": "aminecraftmovie-950387",
+        "release_date": "2025-03-31"
+    },
+    {
+        "id": "447273",
+        "title": "Snow White",
+        "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+        "genres": "Family, Fantasy",
+        "unique_id": "snowwhite-447273",
+        "release_date": "2025-03-12"
+    },
+    {
+        "id": "1098006",
+        "title": "Fountain of Youth",
+        "overview": "A treasure-hunting mastermind assembles a team for a life-changing adventure. But to outwit and outrun threats at every turn, he'll need someone even smarter than he is: his estranged sister.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
+        "genres": "Adventure, Fantasy, Mystery",
+        "unique_id": "fountainofyouth-1098006",
+        "release_date": "2025-05-19"
+    },
+    {
+        "id": "1197306",
+        "title": "A Working Man",
+        "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+        "genres": "Action, Crime, Thriller",
+        "unique_id": "aworkingman-1197306",
+        "release_date": "2025-03-26"
+    },
+    {
+        "id": "1241436",
+        "title": "Warfare",
+        "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
+        "genres": "War, Action",
+        "unique_id": "warfare-1241436",
+        "release_date": "2025-04-09"
+    },
+    {
+        "id": "986056",
+        "title": "Thunderbolts*",
+        "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg",
+        "genres": "Action, Science Fiction, Adventure",
+        "unique_id": "thunderbolts-986056",
+        "release_date": "2025-04-30"
+    },
+    {
+        "id": "1297028",
+        "title": "Rosario",
+        "overview": "Wall Street stockbroker Rosario Fuentes returns to her grandmother's apartment after her sudden death. While sorting through her belongings, Rosario discovers a hidden chamber that's filled with occult artifacts tied to dark generational rituals. As supernatural occurrences begin to plague her, she must confront her family's buried secrets and face the truth about the sacrifices and choices they made.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/beLZhuHT97849WkWgty2X1hkWUa.jpg",
+        "genres": "Horror",
+        "unique_id": "rosario-1297028",
+        "release_date": "2025-05-01"
+    },
+    {
+        "id": "977294",
+        "title": "Tin Soldier",
+        "overview": "An ex-special forces operative seeks revenge against a cult leader who has corrupted his former comrades, the Shinjas. This leader, known as The Bokushi, promises veterans a purpose and protection, but is revealed to be a destructive influence. The ex-soldier, Nash Cavanaugh, joins forces with military operative Emmanuel Ashburn to infiltrate the Bokushi's fortress and expose his reign of terror",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lFFDrFLXywFhy6khHes1LCFVMsL.jpg",
+        "genres": "Action, Thriller",
+        "unique_id": "tinsoldier-977294",
+        "release_date": "2025-05-22"
+    },
+    {
+        "id": "324544",
+        "title": "In the Lost Lands",
+        "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+        "genres": "Action, Fantasy, Adventure",
+        "unique_id": "inthelostlands-324544",
+        "release_date": "2025-02-27"
+    },
+    {
+        "id": "1233069",
+        "title": "Exterritorial",
+        "overview": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him \u2014 and uncovers a dark conspiracy.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg",
+        "genres": "Thriller, Action",
+        "unique_id": "exterritorial-1233069",
+        "release_date": "2025-04-29"
+    },
+    {
+        "id": "1001414",
+        "title": "Fear Street: Prom Queen",
+        "overview": "Who will be voted queen at Shadyside High's 1988 prom? For underdog Lori, competition is cutthroat even before someone starts killing off the candidates.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "fearstreetpromqueen-1001414",
+        "release_date": "2025-05-23"
+    },
+    {
+        "id": "574475",
+        "title": "Final Destination Bloodlines",
+        "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "finaldestinationbloodlines-574475",
+        "release_date": "2025-05-14"
+    },
+    {
+        "id": "1144430",
+        "title": "Last Bullet",
+        "overview": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/qycPITRqXgPai7zj1gKffjCdSB5.jpg",
+        "genres": "Action, Crime, Thriller, Drama",
+        "unique_id": "lastbullet-1144430",
+        "release_date": "2025-05-06"
+    },
+    {
+        "id": "896536",
+        "title": "The Legend of Ochi",
+        "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wVujUVvY4qvKARAslItQ4ARKqtz.jpg",
+        "genres": "Family, Fantasy, Adventure",
+        "unique_id": "thelegendofochi-896536",
+        "release_date": "2025-04-18"
+    },
+    {
+        "id": "668489",
+        "title": "Havoc",
+        "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg",
+        "genres": "Action, Crime, Thriller",
+        "unique_id": "havoc-668489",
+        "release_date": "2025-04-25"
+    },
+    {
+        "id": "822119",
+        "title": "Captain America: Brave New World",
+        "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+        "genres": "Action, Thriller, Science Fiction",
+        "unique_id": "captainamericabravenewworld-822119",
+        "release_date": "2025-02-12"
+    },
+    {
+        "id": "1232546",
+        "title": "Until Dawn",
+        "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/juA4IWO52Fecx8lhAsxmDgy3M3.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "untildawn-1232546",
+        "release_date": "2025-04-23"
+    },
+    {
+        "id": "575265",
+        "title": "Mission: Impossible - The Final Reckoning",
+        "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity \u2014 which has infiltrated intelligence networks all over the globe \u2014 with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+        "genres": "Action, Adventure, Thriller",
+        "unique_id": "missionimpossiblethefinalreckoning-575265",
+        "release_date": "2025-05-17"
     }
 ]
