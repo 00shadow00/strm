@@ -916,5 +916,14 @@
         "genres": "Action, Adventure, Drama",
         "unique_id": "karatekidlegends-1011477",
         "release_date": "2025-05-08"
+    },
+    {
+        "id": "1355983",
+        "title": "Espantaho",
+        "overview": "As a family clashes over their late father's land, an eerie painting appears and releases something sinister during the nine-day funeral ritual.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/itRDwuQxbtmgaxyrHI4rGiIrxxX.jpg",
+        "genres": "Horror",
+        "unique_id": "espantaho-1355983",
+        "release_date": "2025-02-07"
     }
 ]
