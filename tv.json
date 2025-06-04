@@ -1145,5 +1145,14 @@
         "genres": "Sci-Fi & Fantasy, Comedy, Family",
         "unique_id": "mechx4-68654",
         "tmdb_id": "68654"
+    },
+    {
+        "id": "31739",
+        "title": "Kiba",
+        "overview": "Kiba, a fantasy anime by Madhouse and Aniplex, began broadcasting on TV Tokyo on April 5, 2006. The series is directed by Hiroshi K\u014djina with Upper Deck Japan, a trading card game company, as the main sponsor. The anime has been licensed by Upper Deck USA and produced by ADV Films for North American distribution.\n\nThe series is more violent than other trading-card-game-tie-in animations with many characters being killed. According to an interview with the March 2006 issue of Animage, Hiroshi Kamishina, the show's director, noted that the show \"absolutely will not have any plot elements that curry favor to children\". The producers of the show has also commented that Kiba will not be the type of show to put \"human drama\" on the back burner while concentrating on promotional tie-ins. While Upper Deck owns the rights to the series, ADV Films is the distributor and their production studio Amusement Park Media is producing the dub. Kiba aired on Toonami Jetstream from July 14, 2008 to January 21, 2009 and is now showing on The Anime Network's Video on Demand service.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/gE2Pf3BBq6jn9vTEWmLJorCmQRn.jpg",
+        "genres": "Animation, Sci-Fi & Fantasy",
+        "unique_id": "kiba-31739",
+        "tmdb_id": "31739"
     }
 ]
