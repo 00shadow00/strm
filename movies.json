@@ -916,14 +916,5 @@
         "genres": "Action, Adventure, Science Fiction",
         "unique_id": "superman-1061474",
         "release_date": "2025-07-09"
-    },
-    {
-        "id": "793058",
-        "title": "Hi-Five",
-        "overview": "Five random people get special abilities unexpectedly, after organ transplant! They form a team and call themselves the 'HI-FIVE'!",
-        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/3vRgeb0cARTebM8cbDXogGhOyit.jpg",
-        "genres": "Science Fiction, Action, Adventure, Comedy",
-        "unique_id": "hifive-793058",
-        "release_date": "2025-05-30"
     }
 ]
