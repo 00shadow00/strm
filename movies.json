@@ -925,5 +925,14 @@
         "genres": "Action, Science Fiction, Thriller",
         "unique_id": "totalrecall-64635",
         "release_date": "2012-08-02"
+    },
+    {
+        "id": "527216",
+        "title": "So Connected",
+        "overview": "It is about a guy who thinks he already knows someone just because he's been watching her life through photos and videos.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/6qIxCS77jZyMgvWhn6tqkT157Zn.jpg",
+        "genres": "Romance",
+        "unique_id": "soconnected-527216",
+        "release_date": "2018-05-23"
     }
 ]
