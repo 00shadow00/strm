@@ -916,5 +916,14 @@
         "genres": "Action, Adventure, Science Fiction",
         "unique_id": "superman-1061474",
         "release_date": "2025-07-09"
+    },
+    {
+        "id": "64635",
+        "title": "Total Recall",
+        "overview": "Factory worker Doug Quaid takes a virtual mind-trip vacation with the Rekall company, opting for implanted memories of being a spy. When the procedure goes wrong, Quaid becomes a wanted man by the police and joins forces with a rebel fighter to stop the evil Chancellor Cohaagen.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg",
+        "genres": "Action, Science Fiction, Thriller",
+        "unique_id": "totalrecall-64635",
+        "release_date": "2012-08-02"
     }
 ]
