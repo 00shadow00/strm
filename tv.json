@@ -1154,5 +1154,23 @@
         "genres": "Animation, Sci-Fi & Fantasy",
         "unique_id": "kiba-31739",
         "tmdb_id": "31739"
+    },
+    {
+        "id": "56045",
+        "title": "Continuum",
+        "overview": "A beautiful young woman awakens aboard an adrift space ship with no memory of who she is or how she got there and at the mercy of the ship's mysterious computer.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dZy4Vlfi5gpscPwLlakXUjkOQNy.jpg",
+        "genres": "Sci-Fi & Fantasy",
+        "unique_id": "continuum-56045",
+        "tmdb_id": "56045"
+    },
+    {
+        "id": "43020",
+        "title": "Continuum",
+        "overview": "The series centers on the conflict between a group of rebels from the year 2077 who time-travel to Vancouver, BC, in 2012, and a police officer who accidentally accompanies them. In spite of being many years early, the rebel group decides to continue its violent campaign to stop corporations of the future from replacing governments, while the police officer endeavours to stop them without revealing to anyone that she and the rebels are from the future.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/bqL4jiKHOv4qXn46RRIgcKIk2EE.jpg",
+        "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "unique_id": "continuum-43020",
+        "tmdb_id": "43020"
     }
 ]
