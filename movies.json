@@ -955,5 +955,14 @@
         "genres": "Action, Drama",
         "unique_id": "f1-911430",
         "release_date": "2025-06-25"
+    },
+    {
+        "id": "404114",
+        "title": "Mobile Suit Gundam Thunderbolt: December Sky",
+        "overview": "During the One Year War of U.C. 0079, the Earth Federation and Principality of Zeon engage in a fierce battle at the \"Thunderbolt Sector\", a shoal zone in the former Colony Side 4 \"Moore\". After successfully infiltrating Zeon's sniper field, ace Federation pilot and jazz enthusiast Io Fleming is given control of the latest Gundam prototype.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/9lkEs98koT3et0Csyb996apllOm.jpg",
+        "genres": "Action, Animation, Drama, Science Fiction, War",
+        "unique_id": "mobilesuitgundamthunderboltdecembersky-404114",
+        "release_date": "2016-06-25"
     }
 ]
