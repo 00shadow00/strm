@@ -964,5 +964,14 @@
         "genres": "Action, Animation, Drama, Science Fiction, War",
         "unique_id": "mobilesuitgundamthunderboltdecembersky-404114",
         "release_date": "2016-06-25"
+    },
+    {
+        "id": "38762",
+        "title": "Meat Grinder",
+        "overview": "A poverty stricken woman starts a restaurant where she slaughters people and serves up human flesh, cut from her victims.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/bpmVJeTEJdBkWoSvX7wvk8ch5MH.jpg",
+        "genres": "Horror, Thriller",
+        "unique_id": "meatgrinder-38762",
+        "release_date": "2009-03-18"
     }
 ]
