@@ -982,5 +982,14 @@
         "genres": "Science Fiction, Adventure",
         "unique_id": "theinhabitedisland-16911",
         "release_date": "2008-12-18"
+    },
+    {
+        "id": "174675",
+        "title": "The Machine",
+        "overview": "Already deep into a second Cold War, Britain\u2019s Ministry of Defense seeks a game-changing weapon. Programmer Vincent McCarthy unwittingly provides an answer in The Machine, a super-strong human cyborg. When a programming bug causes the prototype to decimate his lab, McCarthy takes his obsessive efforts underground, far away from inquisitive eyes.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/nNHAZaTrFVOjwLhkMYm4syUjNw8.jpg",
+        "genres": "Science Fiction, Thriller",
+        "unique_id": "themachine-174675",
+        "release_date": "2013-04-25"
     }
 ]
