@@ -991,5 +991,50 @@
         "genres": "Science Fiction, Thriller",
         "unique_id": "themachine-174675",
         "release_date": "2013-04-25"
+    },
+    {
+        "id": "755898",
+        "title": "War of the Worlds",
+        "overview": "Will Radford is a top cyber-security analyst for Homeland Security who tracks potential threats to national security through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/tlqTdabozTVjWEPWUhDRITxKt6R.jpg",
+        "genres": "Science Fiction, Thriller",
+        "unique_id": "waroftheworlds-755898",
+        "release_date": "2025-07-29"
+    },
+    {
+        "id": "1311031",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold \u2013 the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+        "genres": "Animation, Action, Fantasy, Thriller",
+        "unique_id": "demonslayerkimetsunoyaibainfinitycastle-1311031",
+        "release_date": "2025-07-18"
+    },
+    {
+        "id": "1087192",
+        "title": "How to Train Your Dragon",
+        "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+        "genres": "Fantasy, Family, Action",
+        "unique_id": "howtotrainyourdragon-1087192",
+        "release_date": "2025-06-06"
+    },
+    {
+        "id": "1071585",
+        "title": "M3GAN 2.0",
+        "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+        "genres": "Action, Science Fiction, Thriller",
+        "unique_id": "m3gan20-1071585",
+        "release_date": "2025-06-25"
+    },
+    {
+        "id": "617126",
+        "title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+        "genres": "Science Fiction, Adventure",
+        "unique_id": "thefantastic4firststeps-617126",
+        "release_date": "2025-07-23"
     }
 ]
