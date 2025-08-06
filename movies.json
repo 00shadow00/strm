@@ -1036,5 +1036,32 @@
         "genres": "Science Fiction, Adventure",
         "unique_id": "thefantastic4firststeps-617126",
         "release_date": "2025-07-23"
+    },
+    {
+        "id": "980477",
+        "title": "Ne Zha 2",
+        "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+        "genres": "Animation, Fantasy, Adventure, Action",
+        "unique_id": "nezha2-980477",
+        "release_date": "2025-01-29"
+    },
+    {
+        "id": "1234821",
+        "title": "Jurassic World Rebirth",
+        "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+        "genres": "Science Fiction, Adventure, Action",
+        "unique_id": "jurassicworldrebirth-1234821",
+        "release_date": "2025-07-01"
+    },
+    {
+        "id": "986206",
+        "title": "Night Carnage",
+        "overview": "A blogger who is also a werewolf meets a dashing playboy with a dark secret of his own. Starring Logan Andrews and Christian Howard.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/w0wjPQKhlqisSbylf1sWZiNyc2h.jpg",
+        "genres": "Action, Horror, Romance",
+        "unique_id": "nightcarnage-986206",
+        "release_date": "2025-07-29"
     }
 ]
