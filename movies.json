@@ -1063,5 +1063,14 @@
         "genres": "Action, Horror, Romance",
         "unique_id": "nightcarnage-986206",
         "release_date": "2025-07-29"
+    },
+    {
+        "id": "576784",
+        "title": "Upon the Magic Roads",
+        "overview": "Romantic John the Fool and his friend Foal set out on a series of unpredictable adventures in different magical worlds. The two buddies will have to outsmart an evil tyrant king, catch the firebird, and find John\u2019s true love.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/kY4tmwZaBZitnDRcWFp3Wy197Um.jpg",
+        "genres": "Adventure, Fantasy",
+        "unique_id": "uponthemagicroads-576784",
+        "release_date": "2021-02-18"
     }
 ]
