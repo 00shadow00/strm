@@ -1072,5 +1072,32 @@
         "genres": "Adventure, Fantasy",
         "unique_id": "uponthemagicroads-576784",
         "release_date": "2021-02-18"
+    },
+    {
+        "id": "1185528",
+        "title": "Legends of the Condor Heroes: The Gallants",
+        "overview": "Under Genghis Khan, the Mongolian army pushes west to destroy the Jin Dynasty, setting its sights on the Song Dynasty next. Amid internal conflicts among martial arts schools, Guo Jing unites the Central Plains' warriors to defend Xiangyang, embodying courage and loyalty in the fight for the nation.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/fUCFEGFlMIFet9ja72JDAeG1he8.jpg",
+        "genres": "Action, Drama, History",
+        "unique_id": "legendsofthecondorheroesthegallants-1185528",
+        "release_date": "2025-01-29"
+    },
+    {
+        "id": "1155281",
+        "title": "Creation of the Gods II: Demon Force",
+        "overview": "Taishi Wen Zhong led the army of Shang Dynasty including Deng Chanyu and four generals of the Mo Family to Xiqi. With the help of Kunlun immortals such as Jiang Ziya, Ji Fa led the army and civilians of Xiqi to defend their homeland.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dfUCs5HNtGu4fofh83uiE2Qcy3v.jpg",
+        "genres": "Action, Fantasy, War",
+        "unique_id": "creationofthegodsiidemonforce-1155281",
+        "release_date": "2025-01-29"
+    },
+    {
+        "id": "1225572",
+        "title": "Screamboat",
+        "overview": "A late-night boat ride turns into a desperate fight for survival in New York City when a mischievous mouse becomes a monstrous reality.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/78xGAhQaKpgq9TI08XK40Ua2bGx.jpg",
+        "genres": "Horror, Comedy",
+        "unique_id": "screamboat-1225572",
+        "release_date": "2025-03-20"
     }
 ]
