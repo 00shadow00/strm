@@ -1171,5 +1171,68 @@
         "genres": "Animation, Fantasy, Family",
         "unique_id": "iamnezha-474139",
         "release_date": "2016-10-01"
+    },
+    {
+        "id": "1007734",
+        "title": "Nobody 2",
+        "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
+        "genres": "Action, Thriller",
+        "unique_id": "nobody2-1007734",
+        "release_date": "2025-08-13"
+    },
+    {
+        "id": "1241470",
+        "title": "Osiris",
+        "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+        "genres": "Science Fiction, Action, Horror",
+        "unique_id": "osiris-1241470",
+        "release_date": "2025-07-25"
+    },
+    {
+        "id": "13494",
+        "title": "Red Sonja",
+        "overview": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/l10eghFN1nQmWwMSt91MlLvZZFA.jpg",
+        "genres": "Adventure, Action, Fantasy",
+        "unique_id": "redsonja-13494",
+        "release_date": "2025-07-31"
+    },
+    {
+        "id": "1022787",
+        "title": "Elio",
+        "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg",
+        "genres": "Animation, Family, Comedy, Adventure, Science Fiction",
+        "unique_id": "elio-1022787",
+        "release_date": "2025-06-18"
+    },
+    {
+        "id": "1389158",
+        "title": "Maa",
+        "overview": "A mother and daughter encounter a demon in a village where girls have been disappearing.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/kc5n7LJUmvBsVxzAla1ONN8kouP.jpg",
+        "genres": "Horror",
+        "unique_id": "maa-1389158",
+        "release_date": "2025-06-20"
+    },
+    {
+        "id": "1175942",
+        "title": "The Bad Guys 2",
+        "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/5DJbIWxIotQYUnRrRGhSxjxmvye.jpg",
+        "genres": "Animation, Family, Comedy, Crime, Adventure",
+        "unique_id": "thebadguys2-1175942",
+        "release_date": "2025-07-24"
+    },
+    {
+        "id": "1078605",
+        "title": "Weapons",
+        "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "weapons-1078605",
+        "release_date": "2025-08-04"
     }
 ]
