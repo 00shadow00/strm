@@ -1234,5 +1234,14 @@
         "genres": "Horror, Mystery",
         "unique_id": "weapons-1078605",
         "release_date": "2025-08-04"
+    },
+    {
+        "id": "791155",
+        "title": "Secret Headquarters",
+        "overview": "While hanging out after school, Charlie and his friends discover the headquarters of the world\u2019s most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the headquarters and save the world.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/3ce0zzOZ7DhkPxYNsPZmoQU2piH.jpg",
+        "genres": "Action, Adventure, Comedy, Science Fiction, Family",
+        "unique_id": "secretheadquarters-791155",
+        "release_date": "2022-08-12"
     }
 ]
