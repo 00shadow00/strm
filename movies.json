@@ -1251,6 +1251,9 @@
         "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dNVqi8EsBtnnwfR6TgiWM51JOuS.jpg",
         "genres": "Adventure, Fantasy, Action",
         "unique_id": "seasonofthewitch-23047",
-        "release_date": "2011-01-07"
+        "release_date": "2011-01-07",
+        "player": [
+            "https:\/\/vidsrc.cc\/v2\/embed\/movie\/23047?autoPlay=false"
+        ]
     }
 ]
