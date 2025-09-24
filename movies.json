@@ -1255,5 +1255,14 @@
         "player": [
             "https:\/\/vidsrc.cc\/v2\/embed\/movie\/23047?autoPlay=false"
         ]
+    },
+    {
+        "id": "254526",
+        "title": "The Midnight After",
+        "overview": "On a night just like any other, a minibus full of passengers drives through a tunnel and arrives in another dimension; the eclectic group of passengers seek refuge in a deserted cafe and make a horrific discovery.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dk7FyOT3g294P4BUJ09P4XGJ98D.jpg",
+        "genres": "Comedy, Mystery, Science Fiction, Thriller, Horror",
+        "unique_id": "themidnightafter-254526",
+        "release_date": "2014-04-10"
     }
 ]
