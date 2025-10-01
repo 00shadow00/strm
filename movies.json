@@ -1282,5 +1282,14 @@
         "genres": "Horror",
         "unique_id": "theconjuringlastrites-1038392",
         "release_date": "2025-09-03"
+    },
+    {
+        "id": "1267319",
+        "title": "Mantis",
+        "overview": "Mantis, an ace assassin, returns to the contract killer industry after a hiatus, encountering his trainee friend Jae-yi and a retired legendary killer Dok-go, who now runs the organization.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/xS9bbciDC5lHPgl79SrPyzxKAXL.jpg",
+        "genres": "Action, Crime, Thriller",
+        "unique_id": "mantis-1267319",
+        "release_date": "2025-09-26"
     }
 ]
