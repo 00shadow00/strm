@@ -1291,5 +1291,23 @@
         "genres": "Action, Crime, Thriller",
         "unique_id": "mantis-1267319",
         "release_date": "2025-09-26"
+    },
+    {
+        "id": "1086910",
+        "title": "The Lost Princess",
+        "overview": "After an Ayahuasca vision transports him to a haunted castle, Alec meets Hanna who tales him the story of her mother's forced marriage and how the forbidden passion with her father was in danger when the princess pregnancy became obvious",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
+        "genres": "Action, Adventure",
+        "unique_id": "thelostprincess-1086910",
+        "release_date": "2025-10-16"
+    },
+    {
+        "id": "793387",
+        "title": "Holy Night: Demon Hunters",
+        "overview": "When a devil-worshipping criminal network plunges Seoul into chaos, the police turn to Holy Night\u2014a trio of supernatural demon hunters\u2014to restore order and defeat the rising evil.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg",
+        "genres": "Action, Fantasy, Horror, Thriller",
+        "unique_id": "holynightdemonhunters-793387",
+        "release_date": "2025-04-30"
     }
 ]
