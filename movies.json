@@ -1363,5 +1363,14 @@
         "genres": "Animation, Action, Science Fiction, Thriller",
         "unique_id": "predatorkillerofkillers-1376434",
         "release_date": "2025-06-05"
+    },
+    {
+        "id": "1114967",
+        "title": "Good Fortune",
+        "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/nVXpuJiCk4VJeN9SZSzDZteTrGI.jpg",
+        "genres": "Comedy, Drama, Fantasy",
+        "unique_id": "goodfortune-1114967",
+        "release_date": "2025-10-14"
     }
 ]
