@@ -1199,5 +1199,16 @@
         "genres": "Sci-Fi & Fantasy, Drama",
         "unique_id": "hisdarkmaterials-68507",
         "tmdb_id": "68507"
+    },
+    {
+        "id": "228689",
+        "title": "Genie, Make a Wish",
+        "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+        "genres": "Sci-Fi & Fantasy, Comedy, Drama",
+        "unique_id": "geniemakeawish-228689",
+        "tmdb_id": "228689",
+        "release_year": "2025",
+        "release_date": "2025-10-03"
     }
 ]
