@@ -1392,5 +1392,45 @@
         "unique_id": "thedeliveryrider-1558981",
         "release_date": null,
         "release_year": null
+    },
+    {
+        "id": "507244",
+        "title": "Afterburn",
+        "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg",
+        "genres": "Science Fiction, Action, Comedy",
+        "unique_id": "afterburn-507244",
+        "release_date": "2025-08-21",
+        "release_year": "2025"
+    },
+    {
+        "id": "1306525",
+        "title": "The Elixir",
+        "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wvWRCDR0wScmrJVAh2iipBSxkZw.jpg",
+        "genres": "Horror, Thriller",
+        "unique_id": "theelixir-1306525",
+        "release_date": "2025-10-23",
+        "release_year": "2025"
+    },
+    {
+        "id": "1197137",
+        "title": "Black Phone 2",
+        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
+        "genres": "Horror, Thriller",
+        "unique_id": "blackphone2-1197137",
+        "release_date": "2025-10-17",
+        "release_year": "2025"
+    },
+    {
+        "id": "1511789",
+        "title": "Captain Hook - The Cursed Tides",
+        "overview": "In the aftermath of a devastating defeat by his archnemesis Admiral Smee, the notorious Captain James Hook finds refuge in the coastal town of Eldritch Landing, where he forms an unlikely alliance with Silas Blackweather, a local blacksmith seeking retribution for his sister's murder. As they evade Smee's Redcoat Soldiers in the island's dense woodland, ruthless sword fights, ancient curses and conflicting motives will challenge their shared quest for revenge. Together, Hook and Silas navigate uncharted waters to confront the treacherous Admiral Smee, embarking on a journey that will redefine Captain Hook's enduring legacy.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
+        "genres": "Adventure, Action, Horror",
+        "unique_id": "captainhookthecursedtides-1511789",
+        "release_date": "2025-10-14",
+        "release_year": "2025"
     }
 ]
