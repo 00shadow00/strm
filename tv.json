@@ -1212,5 +1212,16 @@
         "tmdb_id": "68507",
         "release_year": "20192022",
         "release_date": "2019-11-04"
+    },
+    {
+        "id": "200875",
+        "title": "IT: Welcome to Derry",
+        "overview": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+        "genres": "Mystery, Drama",
+        "unique_id": "itwelcometoderry-200875",
+        "tmdb_id": "200875",
+        "release_year": "2025",
+        "release_date": "2025-10-26"
     }
 ]
