@@ -1432,5 +1432,15 @@
         "unique_id": "captainhookthecursedtides-1511789",
         "release_date": "2025-10-14",
         "release_year": "2025"
+    },
+    {
+        "id": "1242898",
+        "title": "Predator: Badlands",
+        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "genres": "Action, Science Fiction, Adventure",
+        "unique_id": "predatorbadlands-1242898",
+        "release_date": "2025-11-07",
+        "release_year": "2025"
     }
 ]
