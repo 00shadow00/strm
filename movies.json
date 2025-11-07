@@ -1452,5 +1452,15 @@
         "unique_id": "theshadowsedge-1419406",
         "release_date": "2025-08-16",
         "release_year": "2025"
+    },
+    {
+        "id": "1062722",
+        "title": "Frankenstein",
+        "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/rJjNMlxbjO34myMlzZJAOORBg2O.jpg",
+        "genres": "Horror, Fantasy",
+        "unique_id": "frankenstein-1062722",
+        "release_date": "1931-11-21",
+        "release_year": "1931"
     }
 ]
