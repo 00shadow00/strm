@@ -1442,5 +1442,15 @@
         "unique_id": "predatorbadlands-1242898",
         "release_date": "2025-11-07",
         "release_year": "2025"
+    },
+    {
+        "id": "1419406",
+        "title": "The Shadow's Edge",
+        "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "genres": "Action, Crime, Thriller",
+        "unique_id": "theshadowsedge-1419406",
+        "release_date": "2025-08-16",
+        "release_year": "2025"
     }
 ]
