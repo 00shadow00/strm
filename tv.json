@@ -1223,5 +1223,16 @@
         "tmdb_id": "200875",
         "release_year": "2025",
         "release_date": "2025-10-26"
+    },
+    {
+        "id": "245648",
+        "title": "Billionaires' Bunker",
+        "overview": "When a group of billionaires takes shelter in a luxury bunker, an old feud between two families resurfaces amid an unprecedented global conflict.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/tXoZOTIwzLIEDzRfOf9c482dBqB.jpg",
+        "genres": "Sci-Fi & Fantasy, Drama, Mystery, Crime",
+        "unique_id": "billionairesbunker-245648",
+        "tmdb_id": "245648",
+        "release_year": null,
+        "release_date": null
     }
 ]
