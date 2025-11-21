@@ -1460,8 +1460,8 @@
         "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/rJjNMlxbjO34myMlzZJAOORBg2O.jpg",
         "genres": "Horror, Fantasy",
         "unique_id": "frankenstein-1062722",
-        "release_date": "1931-11-21",
-        "release_year": "1931"
+        "release_date": "2025-11-21",
+        "release_year": "2025"
     },
     {
         "id": "425274",
@@ -1471,6 +1471,6 @@
         "genres": "Thriller, Crime, Mystery",
         "unique_id": "nowyouseemenowyoudont-425274",
         "release_date": "2005-04-30",
-        "release_year": null
+        "release_year": "2025"
     }
 ]
