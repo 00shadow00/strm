@@ -1482,5 +1482,45 @@
         "unique_id": "inyourdreams-1117857",
         "release_date": "2023-02-03",
         "release_year": "2023"
+    },
+    {
+        "id": "1583907",
+        "title": "Zootopia: Better Zoogether",
+        "overview": "Judy Hopps and Nick Wilde investigate an attempt to sabotage the festivities on Zoogether Day.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/xbiM1cOIYNSCqIhaTOzhIvP164f.jpg",
+        "genres": "Animation, Comedy, Crime, Mystery",
+        "unique_id": "zootopiabetterzoogether-1583907",
+        "release_date": null,
+        "release_year": null
+    },
+    {
+        "id": "1580902",
+        "title": "Zootopia 2 | A Special Look",
+        "overview": "Nick Wilde takes over Disney+ to promote the upcoming Zootopia sequel.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/ddic3XpYqZpyGwzFJ1WKEDCO6dH.jpg",
+        "genres": "Animation, Documentary",
+        "unique_id": "zootopia2aspeciallook-1580902",
+        "release_date": null,
+        "release_year": null
+    },
+    {
+        "id": "269149",
+        "title": "Zootopia",
+        "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+        "genres": "Animation, Adventure, Family, Comedy",
+        "unique_id": "zootopia-269149",
+        "release_date": "2016-03-04",
+        "release_year": "2016"
+    },
+    {
+        "id": "1084242",
+        "title": "Zootopia 2",
+        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De\u2019Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "genres": "Animation, Family, Comedy, Adventure, Mystery",
+        "unique_id": "zootopia2-1084242",
+        "release_date": "2025-11-26",
+        "release_year": "2025"
     }
 ]
