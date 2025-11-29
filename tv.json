@@ -1234,5 +1234,16 @@
         "tmdb_id": "245648",
         "release_year": null,
         "release_date": null
+    },
+    {
+        "id": "216467",
+        "title": "Mission: Yozakura Family",
+        "overview": "Taiyo Asano has been on his own ever since his parents died and the only one who seems to care for him is his childhood friend and classmate, Mutsumi Yozakura. But Mutsumi has a secret\u2014she is the head of a family of spies! And on top of that, her brother Kyoichiro is dangerously protective of her! To stop Kyoichiro from killing him, Taiyo and Mutsumi must take the ultimate leap\u2014marriage! Because in the Yozakura family, family cannot kill family.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+        "genres": "Animation, Comedy, Action & Adventure",
+        "unique_id": "missionyozakurafamily-216467",
+        "tmdb_id": "216467",
+        "release_year": "2024",
+        "release_date": "2024-04-06"
     }
 ]
