@@ -1522,5 +1522,15 @@
         "unique_id": "zootopia2-1084242",
         "release_date": "2025-11-26",
         "release_year": "2025"
+    },
+    {
+        "id": "1309012",
+        "title": "Altered",
+        "overview": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+        "genres": "Science Fiction, Action",
+        "unique_id": "altered-1309012",
+        "release_date": "2007-07-20",
+        "release_year": "2006"
     }
 ]
