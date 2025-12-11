@@ -1245,5 +1245,16 @@
         "tmdb_id": "216467",
         "release_year": "2024",
         "release_date": "2024-04-06"
+    },
+    {
+        "id": "79696",
+        "title": "Manifest",
+        "overview": "After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+        "genres": "Sci-Fi & Fantasy, Mystery, Drama",
+        "unique_id": "manifest-79696",
+        "tmdb_id": "79696",
+        "release_year": "20182023",
+        "release_date": "2018-09-24"
     }
 ]
