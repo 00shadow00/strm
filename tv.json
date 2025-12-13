@@ -1256,5 +1256,16 @@
         "tmdb_id": "79696",
         "release_year": "20182023",
         "release_date": "2018-09-24"
+    },
+    {
+        "id": "259886",
+        "title": "The War Between the Land and the Sea",
+        "overview": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+        "genres": "Sci-Fi & Fantasy, Drama",
+        "unique_id": "thewarbetweenthelandandthesea-259886",
+        "tmdb_id": "259886",
+        "release_year": "2025",
+        "release_date": "2025-12-07"
     }
 ]
