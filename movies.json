@@ -1532,5 +1532,55 @@
         "unique_id": "altered-1309012",
         "release_date": "2007-07-20",
         "release_year": "2006"
+    },
+    {
+        "id": "1336189",
+        "title": "Delivery Run",
+        "overview": "A food delivery driver gets caught in a deadly chase in the icy Minnesota wilderness, pursued by a crazed snowplow driver for unknown reasons, facing life-threatening situations and forced to outsmart his relentless pursuer alone.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",
+        "genres": "Action, Thriller",
+        "unique_id": "deliveryrun-1336189",
+        "release_date": "2025-10-17",
+        "release_year": "2024"
+    },
+    {
+        "id": "1195518",
+        "title": "The Unholy Trinity",
+        "overview": "Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn\u2019t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town\u2019s upstanding new sheriff, and a mysterious figure named St. Christopher.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/waU3o5qRPNA9bIC59DIsDppll11.jpg",
+        "genres": "Western, Adventure, Crime",
+        "unique_id": "theunholytrinity-1195518",
+        "release_date": "2025-06-13",
+        "release_year": "2024"
+    },
+    {
+        "id": "982843",
+        "title": "The Great Flood",
+        "overview": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+        "genres": "Science Fiction, Adventure, Drama",
+        "unique_id": "thegreatflood-982843",
+        "release_date": "2014-01-08",
+        "release_year": "2012"
+    },
+    {
+        "id": "83533",
+        "title": "Avatar: Fire and Ash",
+        "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "genres": "Science Fiction, Adventure, Fantasy",
+        "unique_id": "avatarfireandash-83533",
+        "release_date": "2025-12-19",
+        "release_year": "2025"
+    },
+    {
+        "id": "1228246",
+        "title": "Five Nights at Freddy's 2",
+        "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "genres": "Horror, Thriller",
+        "unique_id": "fivenightsatfreddys2-1228246",
+        "release_date": "2025-12-05",
+        "release_year": "2025"
     }
 ]
