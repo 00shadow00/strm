@@ -1267,5 +1267,16 @@
         "tmdb_id": "259886",
         "release_year": "2025",
         "release_date": "2025-12-07"
+    },
+    {
+        "id": "274509",
+        "title": "My Vampire System",
+        "overview": "In a war against the vicious Dalki, Quinn, who lost everything, inherits an old book that grants him powers through a system, propelling his quest to become stronger and face an ultimate challenge.",
+        "poster": "https:\/\/via.placeholder.com\/200x300",
+        "genres": "Sci-Fi & Fantasy",
+        "unique_id": "myvampiresystem-274509",
+        "tmdb_id": "274509",
+        "release_year": "2021",
+        "release_date": "2021-05-14"
     }
 ]
