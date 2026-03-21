@@ -1772,5 +1772,95 @@
         "unique_id": "valleyofthedead-613093",
         "release_date": "2022-07-11",
         "release_year": "2020"
+    },
+    {
+        "id": "875828",
+        "title": "Peaky Blinders: The Immortal Man",
+        "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family \u2014 and his nation.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+        "genres": "Crime, Drama",
+        "unique_id": "peakyblinderstheimmortalman-875828",
+        "release_date": null,
+        "release_year": null
+    },
+    {
+        "id": "680493",
+        "title": "Return to Silent Hill",
+        "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "genres": "Mystery, Drama, Horror",
+        "unique_id": "returntosilenthill-680493",
+        "release_date": "2026-01-23",
+        "release_year": "2026"
+    },
+    {
+        "id": "1119449",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "genres": "Science Fiction, Action, Comedy",
+        "unique_id": "goodluckhavefundontdie-1119449",
+        "release_date": "2026-02-13",
+        "release_year": "2025"
+    },
+    {
+        "id": "969681",
+        "title": "Spider-Man: Brand New Day",
+        "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city \u2014 a full-time Spider-Man \u2014 but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/ucQ0QBXXQPSxeUmWfh4YQenIuB9.jpg",
+        "genres": "Science Fiction, Action, Adventure",
+        "unique_id": "spidermanbrandnewday-969681",
+        "release_date": "2026-07-31",
+        "release_year": "2026"
+    },
+    {
+        "id": "687163",
+        "title": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction\u2026 but an unexpected friendship means he may not have to do it alone.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/huVzcVrlK8aiLd240ienleODvWl.jpg",
+        "genres": "Science Fiction, Adventure, Mystery",
+        "unique_id": "projecthailmary-687163",
+        "release_date": "2026-03-20",
+        "release_year": "2026"
+    },
+    {
+        "id": "1159559",
+        "title": "Scream 7",
+        "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "genres": "Horror, Mystery, Crime",
+        "unique_id": "scream7-1159559",
+        "release_date": "2026-02-27",
+        "release_year": "2026"
+    },
+    {
+        "id": "1265609",
+        "title": "War Machine",
+        "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "genres": "Action, Science Fiction, Thriller",
+        "unique_id": "warmachine-1265609",
+        "release_date": "2017-05-26",
+        "release_year": "2017"
+    },
+    {
+        "id": "1582770",
+        "title": "Dhurandhar: The Revenge",
+        "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "genres": "Action, Crime, Thriller",
+        "unique_id": "dhurandhartherevenge-1582770",
+        "release_date": "2026-03-19",
+        "release_year": "2026"
+    },
+    {
+        "id": "1193501",
+        "title": "Whistle",
+        "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
+        "genres": "Horror, Mystery",
+        "unique_id": "whistle-1193501",
+        "release_date": "2026-02-06",
+        "release_year": "2025"
     }
 ]
