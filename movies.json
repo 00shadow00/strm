@@ -1762,5 +1762,15 @@
         "unique_id": "crime101-1171145",
         "release_date": "2026-02-13",
         "release_year": "2026"
+    },
+    {
+        "id": "613093",
+        "title": "Valley of the Dead",
+        "overview": "During the Spanish Civil War, sworn enemies must work together when they encounter flesh-eating zombies created in a Nazi experiment.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/avokvOwhjVR9GgISsSSgb2A343G.jpg",
+        "genres": "Comedy, Horror, War",
+        "unique_id": "valleyofthedead-613093",
+        "release_date": "2022-07-11",
+        "release_year": "2020"
     }
 ]
