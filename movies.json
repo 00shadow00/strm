@@ -1902,5 +1902,15 @@
         "unique_id": "thepunisheronelastkill-1439930",
         "release_date": null,
         "release_year": "2026"
+    },
+    {
+        "id": "1698856",
+        "title": "Master of the Universe",
+        "overview": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/5BoP5TmqCnbjPGf7ROYm9LdxtKw.jpg",
+        "genres": "Adventure, Science Fiction",
+        "unique_id": "masteroftheuniverse-1698856",
+        "release_date": null,
+        "release_year": "2013"
     }
 ]
