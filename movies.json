@@ -1912,5 +1912,25 @@
         "unique_id": "masteroftheuniverse-1698856",
         "release_date": null,
         "release_year": "2013"
+    },
+    {
+        "id": "49524",
+        "title": "R.I.P.D.",
+        "overview": "A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg",
+        "genres": "Fantasy, Action, Comedy",
+        "unique_id": "ripd-49524",
+        "release_date": null,
+        "release_year": null
+    },
+    {
+        "id": "1013860",
+        "title": "R.I.P.D. 2: Rise of the Damned",
+        "overview": "When Sheriff Roy Pulsipher finds himself in the afterlife, he joins a special police force and returns to Earth to save humanity from the undead.",
+        "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
+        "genres": "Fantasy, Action, Comedy",
+        "unique_id": "ripd2riseofthedamned-1013860",
+        "release_date": "2022-11-15",
+        "release_year": null
     }
 ]
